@@ -1,5 +1,4 @@
-cat README.md
-printf '%s\n' '# Heartbeat – Audio Contributions' '' 'A snapshot of my contributions as **Technical Sound Designer** to the game project **Heartbeat** (First Impact Studios), 2024.' '' '## My Role' '' 'Implementation of audio systems and SFX in collaboration with the development team, using Git/GitHub on the `develop` branch.' '' >> README.md
+# Heartbeat – Audio Contributions' '' 'A snapshot of my contributions as **Technical Sound Designer** to the game project **Heartbeat** (First Impact Studios), 2024.' '' '## My Role' '' 'Implementation of audio systems and SFX in collaboration with the development team, using Git/GitHub on the `develop` branch.' '' >> README.md
 cat README.md
 # Heartbeat – Audio Contributions
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{295edacd-691b-4f77-a14d-6cd83bc7afe9}">
+		<property name="assetPath">
+			<value>UI/Atmos/Atmos_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0827499999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{82d0d19a-b78e-4de3-890e-7e17096539b6}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2c67a8b1-6632-4c5b-b0b1-a364b128e01d}">
+		<property name="assetPath">
+			<value>Enemy Spawn 4.0.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{82d0d19a-b78e-4de3-890e-7e17096539b6}</destination>
+		</relationship>
+	</object>
+</objects>

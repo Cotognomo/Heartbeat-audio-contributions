@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c86061e-ec8c-4aeb-84eb-8a63a58c0b19}">
+		<property name="assetPath">
+			<value>FireBalanceWeapon.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32477083333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{82d0d19a-b78e-4de3-890e-7e17096539b6}</destination>
+		</relationship>
+	</object>
+</objects>
